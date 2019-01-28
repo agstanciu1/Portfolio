@@ -1,0 +1,22 @@
+.item {
+margin: 10px 100px 10px 100px;
+background-color: #0BD3E9;
+border-radius: 15px;
+padding: 17px;
+
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.fas {
+  margin-left: 10px;
+}
+
+.active {
+  padding: 22px;
+  background-color: #11B558;
+}

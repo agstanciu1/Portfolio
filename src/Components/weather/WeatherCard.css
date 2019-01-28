@@ -1,0 +1,87 @@
+.temp {
+	height: auto;
+	color: black;
+	margin: 0px 20px;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+
+}
+.temp-min-max {
+	display: flex;
+	margin: 5px 0px;
+}
+.temp_icon_min_max {
+	display: flex;
+	flex-direction: row;
+	padding-bottom: 40px;
+}
+.card {
+	background-color: teal;
+}
+
+.header_date {
+	margin-top: 5px;
+	margin-bottom: 5px;
+	font-size: 20px;
+	width: auto;
+	display: flex;
+	flex-direction: column;
+	min-height: 20px;
+	padding: 10px 0;
+	background-color: grey;
+}
+
+.cards {
+	min-height: 50vh;
+	margin: 10px;
+	
+}
+
+.wind {
+	font-size: 22px;
+	display: flex;
+	flex-direction: row;
+}
+
+.floated {
+	margin-top: 0px;
+	margin-bottom: 30px;
+	font-size: 20px;
+}
+
+.extra {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+}
+
+
+.icon{
+	font-size: 80px;
+	height: auto;
+}
+
+.cold {
+	color: #008080;
+}
+
+.half {
+	color: orange;
+}
+
+.high {
+	color: red;
+}
+
+.hum {
+	text-align: center;
+	font-size: 22px;
+
+}
+
+.now {
+	font-size: 60px;
+	margin-left: 60px;
+}

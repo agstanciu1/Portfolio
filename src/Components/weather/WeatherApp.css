@@ -1,0 +1,34 @@
+.box {
+	display: inline-flex;
+	min-height: 50vh;
+}
+
+.weatherapp {
+	display: inline-table;
+	
+}
+
+.top {
+  min-height: 100px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+
+.about{
+	margin-top: 20px;
+	color: #80ffbf;
+	display: initial;
+	line-height: 26pt;
+}
+.active{
+	display: all;
+}
+
+.top-top {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
